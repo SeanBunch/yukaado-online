@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="./bosskeyCEO.PNG" className="App-logo" alt="Boss" />
+        <img src="./Ehhhy.PNG" className="App-logo" alt="Ehhhy" />
         <p>
           BossKey Inc.
         </p>
