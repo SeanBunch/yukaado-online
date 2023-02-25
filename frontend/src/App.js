@@ -12,7 +12,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://youtu.be/D_Vg4uyYwEk?t=57"
+          href="https://youtu.be/uyTAfX7cniI"
           target="_blank"
           rel="noopener noreferrer"
         >
